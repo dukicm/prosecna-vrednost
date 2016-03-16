@@ -2,7 +2,7 @@ function srednjaVrednost(){
 	var rez = 0;
 
 	for (var i = 0; i < arguments.length; i++) {
-		rez += arguments[i]; // da li ovo znaci sledece: u varijablu rez mi dodaj index od arguments i saberi sa sledecim indexom??
+		rez += arguments[i]; //da li ovo znaci sledece: u varijablu REZ mi dodaj index od arguments i saberi sa sledecim indexom?
 	};
 
 	return rez/arguments.length;
