@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#box {
+	background: blue;
+	width: 100%;
+	height: 100px;
+	color:white;
+	font-size: 60px;
+}
